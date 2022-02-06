@@ -3,7 +3,9 @@
 >Projeyi çalıştırmak için ; apache-jmeter-5.1.1\bin klasörüne
 
 -chromedriver_win32
+
 -files
+
 -N11JmeterCase.jmx , ekleyiniz.
 
 
